@@ -1,0 +1,15 @@
+{
+    "C_Cpp.default.compilerPath": "/usr/bin/g++",
+    "C_Cpp.default.includePath": [
+        "${workspaceFolder}/lib",
+        "${workspaceFolder}/lib/**"
+    ],
+    "C_Cpp.default.browse": {
+        "path": [
+            "${workspaceFolder}/lib",
+            "${workspaceFolder}/lib/**"
+        ],
+        "limitSymbolsToIncludedHeaders": true,
+        "databaseFilename": ""
+    }
+}
